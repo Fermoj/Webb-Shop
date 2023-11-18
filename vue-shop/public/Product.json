@@ -1,0 +1,221 @@
+[
+    {
+        "id": "1",
+        "name": "Pink Sock",
+        "info": "Our sport socks are built to last, with reinforced seams, a strong heel, and toe. They are available in a variety of sizes to ensure a comfortable and snug fit for all feet.",
+        "size": ["36-41", "42-47"],
+        "Gender": "Herr",
+        "SmallImage": "/Team3-images/Small/Herr/pink-men-small.jpg",
+        "LargeImage": "/Team3-images/Large/Herr/pink-men-large.jpg",
+        "price": 149,
+        "color": "Pink"
+    },
+    {
+        "id": "2",
+        "name": "Yellow Sock",
+        "info": "Introducing our edgy and stylish sock, perfect for adding a touch of attitude to your outfit. Made from a soft and breathable blend of high-quality materials such as cotton and nylon, these socks are designed to provide all-day comfort and durability.",
+        "size": ["36-41", "42-47"],
+        "Gender": "Herr",
+        "SmallImage": "/Team3-images/Small/Herr/yellowlogo-men-small.jpg",
+        "LargeImage": "/Team3-images/Large/Herr/yellowlogo-men-large.jpg",
+        "price": 149,
+        "color": "Yellow"
+    },
+    {
+        "id": "3",
+        "name": "Dotted Sock",
+        "info": "Introducing our stylish and comfortable dotted sock, perfect for adding a touch of fun and flair to your outfit. Made from a soft and breathable blend of high-quality materials such as cotton and spandex, these socks are designed to provide all-day comfort and durability.",
+        "size": ["36-41", "42-47"],
+        "Gender": "Herr",
+        "SmallImage": "/Team3-images/Small/Herr/dots-men-small.jpg",
+        "LargeImage": "/Team3-images/Large/Herr/dots-men-large.jpg",
+        "price": 199,
+        "color": "Yellow"
+    },
+    {
+        "id": "4",
+        "name": "Rose Sock",
+        "info": "Introducing our elegant and stylish roses sock, perfect for adding a touch of sophistication to your outfit. Made from a soft and breathable blend of high-quality materials such as cotton and nylon, these socks are designed to provide all-day comfort and durability.",
+        "size": ["36-41", "42-47"],
+        "Gender": "Herr",
+        "SmallImage": "/Team3-images/Small/Herr/roses-men-small.jpg",
+        "LargeImage": "/Team3-images/Large/Herr/roses-men-large.jpg",
+        "price": 199,
+        "color": "Black"
+    },
+    {
+        "id": "5",
+        "name": "Cola Sock",
+        "info": "Our Coca Cola sock features a fun and eye-catching design, with the iconic Coca Cola logo and colors printed in vibrant detail. These socks are perfect for fans of all ages and make a great gift for Coca Cola collectors and enthusiasts.",
+        "size": ["36-41", "42-47"],
+        "Gender": "Herr",
+        "SmallImage": "/Team3-images/Small/Herr/cola-men-small.jpg",
+        "LargeImage": "/Team3-images/Large/Herr/cola-men-large.jpg",
+        "price": 199,
+        "color": "White"
+    },
+    {
+        "id": "6",
+        "name": "Mustard Sock",
+        "info": "Available in a variety of colors and sizes, these socks are perfect for any occasion - from casual outings to athletic activities. They feature a classic and timeless design that never goes out of style, making them a great addition to any wardrobe.",
+        "size": ["36-41", "42-47"],
+        "Gender": "Herr",
+        "SmallImage": "/Team3-images/Small/Herr/yellow-men-small.jpg",
+        "LargeImage": "/Team3-images/Large/Herr/yellow-men-large.jpg",
+        "price": 149,
+        "color": "Yellow"
+    },
+    {
+        "id": "7",
+        "name": "Sport Sock",
+        "info": "Our sport socks are built to last, with reinforced seams, a strong heel, and toe. They are available in a variety of sizes to ensure a comfortable and snug fit for all feet.",
+        "size": ["36-41", "42-47"],
+        "Gender": "Dam",
+        "SmallImage": "/Team3-images/Small/Dam/sport-women-small.jpg",
+        "LargeImage": "/Team3-images/Large/Dam/sport-women-large.jpg",
+        "price": 149,
+        "color": "Green"
+    },
+    {
+        "id": "8",
+        "name": "Sesame Sock",
+        "info": "Introducing our playful and comfortable Cookie Monster sock, perfect for fans of the beloved Sesame Street character. Made from a soft and breathable blend of high-quality materials such as cotton and polyester, these socks are designed to provide all-day comfort and durability.",
+        "size": ["36-41", "42-47"],
+        "Gender": "Dam",
+        "SmallImage": "/Team3-images/Small/Dam/cookie-monster-small.jpg",
+        "LargeImage": "/Team3-images/Large/Dam/cookie-monster-large.jpg",
+        "price": 199,
+        "color": "Blue"
+    },
+    {
+        "id": "9",
+        "name": "Stripe Sock",
+        "info": "Our striped sock features a classic and timeless design with bold and colorful stripes that add a pop of personality to your outfit. Available in a variety of colors and sizes, these socks are perfect for any occasion - from casual outings to formal events.",
+        "size": ["36-41", "42-47"],
+        "Gender": "Dam",
+        "SmallImage": "/Team3-images/Small/Dam/stripes-women-small.jpg",
+        "LargeImage": "/Team3-images/Large/Dam/stripes-women-large.jpg",
+        "price": 149,
+        "color": "Orange"
+    },
+    {
+        "id": "10",
+        "name": "Fruit Sock",
+        "info": "Introducing our fun and comfortable fruit sock, perfect for adding a pop of color to your outfit. Made from high-quality materials such as cotton, nylon, and spandex, these socks are designed to be soft, breathable, and stretchy for all-day comfort.",
+        "size": ["36-41", "42-47"],
+        "Gender": "Dam",
+        "SmallImage": "/Team3-images/Small/Dam/oranges-women-small.jpg",
+        "LargeImage": "/Team3-images/Large/Dam/oranges-women-large.jpg",
+        "price": 199,
+        "color": "Blue"
+    },
+    {
+        "id": "11",
+        "name": "Purple Sock",
+        "info": "These socks are designed to fit snugly and comfortably, with a ribbed top that keeps them in place without digging into your skin. They are perfect for pairing with your favorite shoes and sneakers, making them a versatile and stylish addition to your sock collection.",
+        "size": ["36-41", "42-47"],
+        "Gender": "Dam",
+        "SmallImage": "/Team3-images/Small/Dam/purple-women-small.jpg",
+        "LargeImage": "/Team3-images/Large/Dam/purple-women-large.jpg",
+        "price": 149,
+        "color": "Purple"
+    },
+    {
+        "id": "12",
+        "name": "Green Sock",
+        "info": "Available in a variety of colors and sizes, these socks are perfect for any occasion - from casual outings to athletic activities. They feature a classic and timeless design that never goes out of style, making them a great addition to any wardrobe.",
+        "size": ["36-41", "42-47"],
+        "Gender": "Dam",
+        "SmallImage": "/Team3-images/Small/Dam/green-women-small.jpg",
+        "LargeImage": "/Team3-images/Large/Dam/green-women-large.jpg",
+        "price": 149,
+        "color": "Green"
+    },
+    {
+        "id": "13",
+        "name": "Kisses Sock",
+        "info": "These socks are designed to fit snugly and comfortably, with a ribbed top that keeps them in place without digging into your skin. They are perfect for pairing with your favorite shoes and sneakers.",
+        "size": ["0-24m", "2-4y", "5-7y"],
+        "Gender": "Barn",
+        "SmallImage": "/Team3-images/Small/Barn/lips-kids-small.jpg",
+        "LargeImage": "/Team3-images/Large/Barn/lips-kids-large.jpg",
+        "price": 99,
+        "color": "White"
+    },
+    {
+        "id": "14",
+        "name": "Unicorn Sock",
+        "info": "Our unicorn pattern sock features a playful and eye-catching design, with a bold and colorful print that makes a statement. Available in a variety of animal prints and sizes, these socks are perfect for any occasion - from casual outings to bold fashion statements.",
+        "size": ["0-24m", "2-4y", "5-7y"],
+        "Gender": "Barn",
+        "SmallImage": "/Team3-images/Small/Barn/unicorn-kids-small.jpg",
+        "LargeImage": "/Team3-images/Large/Barn/unicorn-kids-large.jpg",
+        "price": 99,
+        "color": "Blue"
+    },
+    {
+        "id": "15",
+        "name": "Animal Sock",
+        "info": "Introducing our fashionable and comfortable animal pattern sock, perfect for adding a touch of wild and playful style to your outfit. Made from a soft and breathable blend of high-quality materials such as cotton, nylon, and spandex, these socks are designed to provide all-day comfort and durability.",
+        "size": ["0-24m", "2-4y", "5-7y"],
+        "Gender": "Barn",
+        "SmallImage": "/Team3-images/Small/Barn/animal-kids-small.jpg",
+        "LargeImage": "/Team3-images/Large/Barn/animals-kids-large.jpg",
+        "price": 99,
+        "color": "Beige"
+    },
+    {
+        "id": "16",
+        "name": "Banana Sock",
+        "info": "Our banana sock features a playful and eye-catching design, with a pattern that pops. Available in a variety of colors and sizes, these socks are perfect for any occasion.",
+        "size": ["0-24m", "2-4y", "5-7y"],
+        "Gender": "Barn",
+        "SmallImage": "/Team3-images/Small/Barn/bananas-kids-small.jpg",
+        "LargeImage": "/Team3-images/Large/Barn/bananas-kids-large.jpg",
+        "price": 99,
+        "color": "Pink"
+    },
+    {
+        "id": "17",
+        "name": "Sport Sock",
+        "info": "Featuring a reinforced heel and toe, our striped sock is built to last, providing maximum durability and longevity. The socks also have a cushioned footbed for added comfort and support.",
+        "size": ["0-24m", "2-4y", "5-7y"],
+        "Gender": "Barn",
+        "SmallImage": "/Team3-images/Small/Barn/sport-kids-small.jpg",
+        "LargeImage": "/Team3-images/Large/Barn/sport-kids-large.jpg",
+        "price": 79,
+        "color": "White"
+    },
+    {
+        "id": "18",
+        "name": "Orange Sock",
+        "info": "Available in a variety of colors and sizes, these socks are perfect for any occasion - from casual outings to athletic activities. They feature a classic and timeless design that never goes out of style, making them a great addition to any wardrobe.",
+        "size": ["0-24m", "2-4y", "5-7y"],
+        "Gender": "Barn",
+        "SmallImage": "/Team3-images/Small/Barn/pink-kids-small.jpg",
+        "LargeImage": "/Team3-images/Large/Barn/pink-kids-large.jpg",
+        "price": 79,
+        "color": "Orange"
+    },
+    {
+        "id": "19",
+        "name": "HappyPink",
+        "btnAction": "Like",
+        "heroImage": "Team3-images/HeroImage/HeroPink.jpg",
+        "price": 79
+    },
+    {
+        "id": "20",
+        "name": "HappyBanana",
+        "btnAction": "Like",
+        "heroImage": "Team3-images/HeroImage/HeroBanana.jpg",
+        "price": 79
+    },
+    {
+        "id": "21",
+        "name": "HappyPrick",
+        "btnAction": "Like",
+        "heroImage": "Team3-images/HeroImage/HeroPrick.jpg",
+        "price": 79
+    }
+]
